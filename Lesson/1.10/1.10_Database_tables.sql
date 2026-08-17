@@ -1,6 +1,6 @@
 select 
     job_id,
-    job_title,
+    job_title_short,
     salary_year_avg
 
 from
