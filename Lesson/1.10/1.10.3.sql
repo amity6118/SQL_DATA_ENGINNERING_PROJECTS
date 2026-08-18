@@ -1,2 +1,2 @@
-select job_title_short
+select job_country
 from job_postings_fact limit 3;
