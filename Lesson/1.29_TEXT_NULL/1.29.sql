@@ -1,0 +1,1 @@
+select substring('sql', 1,2);

@@ -1,7 +1,7 @@
 select 
     job_id,
     job_title_short,
-    salary_year_avg
+    salary_hour_avg
 
 from
     job_postings_fact
